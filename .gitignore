@@ -1,0 +1,5 @@
+   # dane NHTSA pobiera się osobno (patrz README)
+   data/
+   __pycache__/
+   *.pyc
+   .env
