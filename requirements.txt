@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+# tylko do experiments/llm_test.py (Gemini):
+# google-genai
